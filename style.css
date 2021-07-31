@@ -1,0 +1,69 @@
+body{
+    background-color: rgb(131, 173, 173);
+
+}
+
+.para{
+    color: rgb(53, 6, 6);
+    background-color: rgb(131, 165, 224);
+    border: 2px solid rgb(225, 236, 232);
+    border-radius: 3px;
+    padding: 10px 15px 10px 15px;
+    margin: 10px 15px 10px 15px;
+    text-align: center;
+}
+.d{
+    color: rgb(53, 6, 6);
+    background-color: rgb(176, 36, 189);
+    border: 2px dotted rgb(225, 236, 232);
+    border-radius: 3px;
+    padding: 10px 15px 10px 15px;
+    margin: 10px 15px 10px 15px;
+    text-align: left;
+}
+.d1{
+    color: rgb(204, 196, 196);
+    background-color: rgb(74, 6, 95);
+    border: 2px dotted rgb(225, 236, 232);
+    border-radius: 3px;
+    padding: 10px 15px 10px 15px;
+    margin: 10px 15px 10px 15px;
+    text-align: right;
+}
+.d2{
+    color: rgb(58, 9, 9);
+    background-color: rgb(98, 197, 16);
+    border: 2px dotted rgb(225, 236, 232);
+    border-radius: 3px;
+    padding: 10px 15px 10px 15px;
+    margin: 10px 15px 10px 15px;
+    text-align: left;
+}
+.d3{
+    color: rgb(58, 9, 9);
+    background-color: rgb(216, 91, 108);
+    border: 2px dotted rgb(225, 236, 232);
+    border-radius: 3px;
+    padding: 10px 15px 10px 15px;
+    margin: 10px 15px 10px 15px;
+    text-align: right;
+}
+.d4{
+    color: rgb(58, 9, 9);
+    background-color: rgb(173, 171, 11);
+    border: 2px dotted rgb(225, 236, 232);
+    border-radius: 3px;
+    padding: 10px 15px 10px 15px;
+    margin: 10px 15px 10px 15px;
+    text-align: left;
+}
+
+a{
+    color:rgba(84, 100, 9, 0.479);
+}
+a:visited{
+    color: blue;
+}
+a:hover{
+    color: red;
+}
